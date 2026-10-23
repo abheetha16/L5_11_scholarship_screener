@@ -101,7 +101,6 @@ def evaluate_applicant(
     return eligible
 
 
-
 def change_formula(new_formula: str) -> None:
     """Validate a new arithmetic formula before applying it."""
     global MERIT_FORMULA  # Shared configuration updated by the CLI.
