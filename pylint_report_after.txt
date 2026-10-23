@@ -1,0 +1,10 @@
+************* Module scholarship_system
+scholarship_system.py:61:0: C0325: Unnecessary parens after 'not' keyword (superfluous-parens)
+scholarship_system.py:54:38: W0622: Redefining built-in 'credits' (redefined-builtin)
+scholarship_system.py:82:4: W0622: Redefining built-in 'credits' (redefined-builtin)
+scholarship_system.py:107:4: W0603: Using the global statement (global-statement)
+scholarship_system.py:128:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.62/10 (previous run: 4.69/10, +4.93)
+
